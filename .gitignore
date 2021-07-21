@@ -11,5 +11,17 @@ _site/
 # Notes graph metadata
 _includes/notes_graph.json
 
-# Obsidian config
-.obsidian/
+# IDEA
+.idea/
+
+# Obsidian files
+_notes/.obsidian/
+_notes/.git/
+_notes/.trash/
+_notes/CMS/
+_notes/Dits/
+_notes/GTD/
+_notes/PKM/
+_notes/Utils/
+
+
