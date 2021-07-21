@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/863f7f37-d40c-4b57-8c24-31101bac2a90/deploy-status)](https://app.netlify.com/sites/mydigigarden/deploys)
 
 # Digital garden Jekyll template
 
