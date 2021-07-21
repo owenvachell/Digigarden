@@ -1,0 +1,15 @@
+
+```button
+name Add New Article
+type note(Media/Articles/New) template
+action Media/Article
+```
+
+---
+
+```dataview
+TABLE status, elink(link) AS url, (date(today) - published).days as Age, (date(now) - file.ctime).days AS "Time in vault (days)", file.etags as tags
+FROM "Media/Articles"
+WHERE contains(file.name, "( ")
+SORT file.name
+```
