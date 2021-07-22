@@ -11,7 +11,7 @@ url: https://www.futurelearn.com/courses/fundamentals-of-project-planning-and-ma
 [Course link](https://www.futurelearn.com/courses/fundamentals-of-project-planning-and-management/15/steps/1152156)
 
 ## Course notes
-[[What is a project]]
+[[What is a project]]\
 [[Defining a project]]
 [[Organisation and Stakeholders]]
 [[Project success and failure]]
