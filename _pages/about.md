@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+I'll fill this in later!
 
-Feel free to tell the world about what you love! 😍
+Check out my [blog](https://www.owenvachell.com) instead!
