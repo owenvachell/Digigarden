@@ -11,25 +11,14 @@ url: https://www.futurelearn.com/courses/fundamentals-of-project-planning-and-ma
 [Course link](https://www.futurelearn.com/courses/fundamentals-of-project-planning-and-management/15/steps/1152156)
 
 ## Course notes
-[[What is a project]]\
-[[Defining a project]]
-[[Organisation and Stakeholders]]
-[[Project success and failure]]
-[[Project Life-Cycle]]
-[[Why Plan]]
-[[Detailed Scoping]]
-[[Identifying dependencies]]
-[[Determine the Completion Date and Critical Path]]
-[[How do we schedule non-critical tasks]]
-[[Making changes to a project plan]]
-[[Common project planning mistakes]]
-[[Project risk]]
-[[Identifying and assessing project risks]]
-[[More realistic project timelines]]
-[[Project execution]]
-[[Project performance indexing and monitoring]]
-[[Why projects go over time or budget]]
-[[Agile, Scrum and Kanban]]
+This code is for use with the Dataview plugin in my local Obsidian installation and won't work when published online. Notes relating to this note can be found in the 'Backlinks' section or the graph view. 
+
+```dataview
+TABLE striptime(file.mtime) AS "Last Visited"
+FROM [[Fundamentals of project planning and management]]
+WHERE !contains(file.name, "MOC")
+SORT file.mtime DESC
+```
 
 
 ---
