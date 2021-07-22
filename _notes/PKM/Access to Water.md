@@ -1,7 +1,3 @@
----
-title: "unpublished"
----
-
 We access the water cycle between precipitation and discharge into the sea by a process called abstraction.
 
 When it comes to the use of technology, the most up-to-date solution is not always the right answer. For example, installing a flushing toilet in Ethiopia would use excessive amounts of water on each flush in a region where supply is already sparse. Furthermore, installing flushing toilets is expensive which would  mean the affluent community using up Ethiopias water supply.
