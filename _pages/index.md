@@ -7,17 +7,9 @@ permalink: /
 
 # Welcome! 🌱
 
-[[Access to Water]]  [[Heatwaves cause problems for seaside towns and vulnerable social groups]]
+Thank you for visiting my digital garden. This isn't a blog, it's the place where I publish my thoughts as notes. Snippets of information that I have picked up on my continuous learning journey and expressed as my own interpretation. Like most gardens, it's a continuous work in progress. I'm just getting started, so nothing is published yet. In the meantime, I invite you to visit my [blog](https://www.owenvachell.com) while I sow my first seeds of thought.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
-
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+Thanks for stopping by.
 
 <style>
   .wrapper {
