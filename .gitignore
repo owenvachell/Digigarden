@@ -24,5 +24,10 @@ _notes/Dits/
 _notes/GTD/
 _notes/Utils/
 _notes/PKM/Media/
-
+_notes/.DS_Store
+_notes/PKM/.DS_Store
+_notes/PKM/Media/.DS_Store
+_notes/.gitignore
+_notes/.gitmodules
+_notes/.obsidian-git-data
 
