@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-[[Access to Water]]
+[[Access to Water]]  [[Heatwaves cause problems for seaside towns and vulnerable social groups]]
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
