@@ -14,10 +14,18 @@ _includes/notes_graph.json
 # IDEA
 .idea/
 
-# Obsidian files
+# Obsidian config files
 _notes/.obsidian/
 _notes/.git/
 _notes/.trash/
+_notes/.DS_Store
+_notes/PKM/.DS_Store
+_notes/PKM/Media/.DS_Store
+_notes/.gitignore
+_notes/.gitmodules
+_notes/.obsidian-git-data
+
+# Obsidian directories
 _notes/CMS/
 _notes/CMS/Personal-Blog/
 _notes/Dits/
@@ -25,10 +33,5 @@ _notes/GTD/
 _notes/Utils/
 _notes/PKM/Media/
 _notes/PKM/Inbox/
-_notes/.DS_Store
-_notes/PKM/.DS_Store
-_notes/PKM/Media/.DS_Store
-_notes/.gitignore
-_notes/.gitmodules
-_notes/.obsidian-git-data
+_notes/MOC/
 
