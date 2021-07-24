@@ -1,0 +1,28 @@
+---
+aliases:
+---
+
+- [ ] pants
+- [ ] socks
+- [ ] jeans
+- [ ] t-shirts
+	- enough to include change of clothing after long walks
+- [ ] wash bag
+	- toothbrush
+	- toothpaste
+	- deodorant
+	- after shave
+	- razor
+	- shaving gel
+	- shower gel
+	- shampoo
+- [ ] chargers
+	- ipad
+	- iphone
+	- watch
+- [ ] camera
+	- lenses
+	- tripod
+	- if taking analogue
+		- [ ] light meter
+		- [ ] fillm

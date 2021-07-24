@@ -1,0 +1,63 @@
+---
+tags: Journal/2021/Apr
+aliases: [Wednesday, Wednesday 28th April 2021]
+sleep: 
+morning:
+  energy: 
+  mindful: 
+  mood: 
+afternoon:
+  energy:
+  mindful:
+  mood:
+evening:
+  energy:
+  mindful:
+  mood:
+habits:
+  study:
+---
+
+### On This Day...
+
+[[2020-04-28]]
+
+---
+
+### Hey Owen, Whats On Your Mind? 
+
+
+---
+#### What happened yesterday
+
+[[2021-04-27|Daily Note]]
+
+##### Created
+
+```dataview
+TABLE regexreplace(file.folder, "\/(.*)", "") AS "Top Level", file.etags AS Tags
+WHERE file.ctime >= date(now) - dur(1 day)
+AND !contains(list("Attachments", "Media", "Templates", "Temporal"), regexreplace(file.folder, "\/(.*)", ""))
+SORT file.name
+```
+
+##### Modified
+
+```dataview
+TABLE regexreplace(file.folder, "\/(.*)", "") AS "Parent Dir", file.etags AS Tags
+WHERE file.mtime >= date(now) - dur(1 day)
+AND !contains(list("Attachments", "Media", "Templates", "Temporal"), regexreplace(file.folder, "\/(.*)", ""))
+SORT file.name
+```
+
+---
+
+#### What to do today
+
+![[Routine]]
+
+---
+
+
+
+

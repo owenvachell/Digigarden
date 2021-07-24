@@ -1,0 +1,5 @@
+FROM ""
+AND !"Attachments"
+AND !"Media"
+AND !"Templates"
+AND !"Temporal"

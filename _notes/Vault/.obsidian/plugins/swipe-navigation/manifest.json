@@ -1,0 +1,10 @@
+{
+  "id": "swipe-navigation",
+  "name": "Swipe Navigation",
+  "description": "Two-finger swipe to navigate through your note history",
+  "version": "0.0.1",
+  "author": "Liam Cain",
+  "authorUrl": "https://github.com/liamcain/",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.11.9"
+}

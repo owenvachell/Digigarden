@@ -1,0 +1,22 @@
+---
+aliases:
+---
+
+- [ ] tent
+- [ ] sleeping bag
+- [ ] roll mat
+- [ ] torch
+- [ ] stove
+- [ ] water bottle
+- [ ] cooking pots
+- [ ] toilet roll
+- [ ] waterproofs
+- [ ] whistle
+- [ ] compass
+- [ ] map
+- [ ] gaiters
+- [ ] boots
+- [ ] socks
+- [ ] rucksack
+- [ ] food
+	- include snacks
