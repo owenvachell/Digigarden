@@ -1,1 +1,0 @@
-regexreplace(file.folder, "\/(.*)", "") AS "Top Level"
