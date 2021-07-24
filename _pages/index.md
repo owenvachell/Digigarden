@@ -15,7 +15,7 @@ process of networked thinking.
 
 Like most gardens, it's a continuous work in progress. 
 
-Thanks for stopping by.
+Thanks for stopping by
 
 ## Start here
 [[Fundamentals of project planning and management]]
