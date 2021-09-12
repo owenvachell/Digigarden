@@ -1,3 +1,6 @@
+---
+---
+
 - technical factors
 	- internal factors
 	- external factors

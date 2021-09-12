@@ -1,3 +1,6 @@
+---
+---
+
 It is better to think of project durations as a range, rather than a single number.
 
 Establishing a min and max duration facilitates the visualisation of potential project duration 'swing' using a tornado chart.

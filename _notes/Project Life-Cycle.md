@@ -1,3 +1,6 @@
+---
+---
+
 ## Project Life-Cycle
 The stages of each step below will vary depending on the project. Steps may also be iterative.
 ![[Screenshot 2021-07-10 at 08.32.03.png]]

@@ -1,3 +1,6 @@
+---
+---
+
 The decisions made here will depend on the decisions made when [[Defining a project]]
 
 In other words:

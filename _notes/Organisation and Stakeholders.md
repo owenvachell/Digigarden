@@ -1,3 +1,6 @@
+---
+---
+
 - who's doing the work?
 	- own employees
 	- outsourced

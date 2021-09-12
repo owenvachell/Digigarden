@@ -1,3 +1,6 @@
+---
+---
+
 If the project needs to be shortened, the only way that can be done is by reducing the time for one or more tasks on the critical path. 
 
 Tasks duration can be reduced by:
